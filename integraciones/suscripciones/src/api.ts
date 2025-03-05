@@ -28,8 +28,8 @@ const api = {
           auto_recurring: {
             frequency: 1,
             frequency_type: "months",
-            transaction_amount: 100,
-            currency_id: "ARS",
+            transaction_amount: 1600,
+            currency_id: "COP",
           },
           payer_email: email,
           status: "pending",
